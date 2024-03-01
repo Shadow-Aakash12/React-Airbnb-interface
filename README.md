@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to Follow 
+
+Kindly go through the project flow and understand the components state and flow in DOM, so that we can actually get the idea and also go throught the CSS file to understand the design pattern followed in Airbnb and also you can add many custom images as you wish from the Actual Airbnb website by inspecting it!!
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: 
 
 ### `npm start`
 
